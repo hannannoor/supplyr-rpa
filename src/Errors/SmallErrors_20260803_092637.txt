@@ -1,0 +1,19 @@
+SUPPLYR SMALL ERROR LOG
+=======================
+Time: 03/08/2026 09:26:40
+
+ERROR TYPE: SMALL (Robot Completed)
+
+SUMMARY:
+Records checked: 50
+Low stock found: 0
+Records skipped: 5
+
+ISSUES FOR REVIEW:
+==================
+Toilet Paper (12 roll) - missing stock value
+Hand Sanitizer 500ml - missing stock value
+Bleach 2L - missing stock value
+Wet Wipes (80 pack) - missing stock value
+Air Freshener 300ml - missing stock value
+Python returned no reorder decisions.

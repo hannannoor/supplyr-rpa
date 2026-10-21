@@ -1,0 +1,22 @@
+SUPPLYR SMALL ERROR LOG
+=======================
+Time: 03/08/2026 09:26:25
+
+ERROR TYPE: SMALL (Robot Completed)
+
+SUMMARY:
+Records checked: 50
+Low stock found: 20
+Records skipped: 5
+
+ISSUES FOR REVIEW:
+==================
+Biscuits Assorted (box) - supplier 'ValueMart Distributors' has missing email or price
+Biscuits Assorted (box) - supplier 'BudgetWhole Distributors' has missing email or price
+Frozen Chicken Wings 1kg - supplier 'ValueMart Distributors' has missing email or price
+Frozen Chicken Wings 1kg - supplier 'BudgetWhole Distributors' has missing email or price
+Toilet Paper (12 roll) - missing stock value
+Hand Sanitizer 500ml - missing stock value
+Bleach 2L - missing stock value
+Wet Wipes (80 pack) - missing stock value
+Air Freshener 300ml - missing stock value
